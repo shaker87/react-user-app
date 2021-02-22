@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Tarek Hossain",
+      "username": "shaker98",
+      "email": "shaker.hossain87@gmail.com",
+      "phone": "01866568978",
+      "website": "shakerhhhhhh.com",
+      "id": 2
+    },
+    {
+      "name": "Tarek",
+      "username": "tarek2",
+      "email": "stech3070@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Atik Hossain",
+      "username": "atik89",
+      "email": "atik.hossain@gmail.com",
+      "phone": "01866568978",
+      "website": "atik.com",
+      "id": 4
+    },
+    {
+      "name": "Jishan",
+      "username": "j6",
+      "email": "atik.hossain@gmail.com",
+      "phone": "01866568978",
+      "website": "shakerhhhhhh.com",
+      "id": 5
+    }
+  ]
+}
